@@ -9,3 +9,4 @@ Aria was made to specifically be great at being a coding assistant, accomodating
 <h2>What makes it special</h2>
 Aria is a open source assistant, because of itd utilization of free llm models, Aria has been made open to developers who want to copy the blueprint on how to create something similar for themselves. On top of that Aria's ai is very user friendly, made to accomodate everyone.
 
+<img src="Frontend/Architectural diagram.jpg" width="600" height="500">
