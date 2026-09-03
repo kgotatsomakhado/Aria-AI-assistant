@@ -1,4 +1,4 @@
-const API_URL = "https://aria-ai-worker.shumba-ai.workers.dev";
+const API_URL = "https://aria-ai-worker.cloudsurfing.workers.dev/";
 const history = document.getElementById("history");
 const chat = document.getElementById("chat");
 
