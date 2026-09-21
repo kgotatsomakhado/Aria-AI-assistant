@@ -18,6 +18,7 @@ Aria provides intelligent AI responses and real-time web search capabilities thr
 - Lightweight HTML, CSS, and JavaScript frontend
 
 ## System Architecture
+<img src="schematic.png" alt="DocSwitch Screenshot" width="100%">
 
 ```text
                          ┌─────────────────────────────┐
