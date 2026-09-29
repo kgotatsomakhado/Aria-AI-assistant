@@ -12,7 +12,7 @@ Aria provides intelligent AI responses and real-time web search capabilities thr
 - Frontend hosted on Vercel
 - Backend hosted on Cloudflare Workers
 - Client-side chat history using browser LocalStorage
-- No backend database for storing conversations
+
 - API keys securely stored as Cloudflare Worker Secrets
 - CORS protection
 - Lightweight HTML, CSS, and JavaScript frontend
