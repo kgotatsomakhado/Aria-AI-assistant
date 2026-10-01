@@ -84,15 +84,15 @@ This prevents sensitive API credentials from being exposed in the frontend.
 
 #### Tavily Search
 
-*Tavily Search is used when current or real-time web information is required.
+-Tavily Search is used when current or real-time web information is required.
 
-*The Cloudflare Worker sends search requests to Tavily and processes the returned information.
+-The Cloudflare Worker sends search requests to Tavily and processes the returned information.
 
 #### Google Gemini
 
-Google Gemini is used to generate AI responses.
+-Google Gemini is used to generate AI responses.
 
-The application uses the Gemini 3.1 Flash-Lite model for response generation.
+-The application uses the Gemini 3.1 Flash-Lite model for response generation.
 
 ### 4. Deployment Layer
 
