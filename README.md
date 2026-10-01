@@ -84,9 +84,9 @@ This prevents sensitive API credentials from being exposed in the frontend.
 
 #### Tavily Search
 
-Tavily Search is used when current or real-time web information is required.
+*Tavily Search is used when current or real-time web information is required.
 
-The Cloudflare Worker sends search requests to Tavily and processes the returned information.
+*The Cloudflare Worker sends search requests to Tavily and processes the returned information.
 
 #### Google Gemini
 
