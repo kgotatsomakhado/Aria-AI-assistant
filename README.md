@@ -4,7 +4,6 @@ Aria AI Assistant is a serverless, privacy-focused AI chatbot powered by Google 
 
 
 
-
 Aria provides intelligent AI responses and real-time web search capabilities through a lightweight frontend hosted on Vercel and a secure backend running on Cloudflare Workers.
 
 ## Features
