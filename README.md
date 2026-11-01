@@ -1,4 +1,4 @@
-# Aria (AI Assistant)
+# Aria (Cloud Based AI Assistant)
 
 Aria AI Assistant is a serverless, privacy-focused AI chatbot powered by Google Gemini and Tavily Search.
 
