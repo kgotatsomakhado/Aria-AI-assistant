@@ -6,7 +6,6 @@ Aria provides intelligent AI responses and real-time web search capabilities thr
 
 ## Features
 
-
 - AI-powered conversations using Google Gemini
 - Real-time web search using Tavily Search
 - Serverless architecture
