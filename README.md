@@ -1,10 +1,11 @@
-# Aria (Cloud Based AI Assistant)
+# Aria (Cloud Based AI-Assistant)
 
 Aria AI Assistant is a serverless, privacy-focused AI chatbot powered by Google Gemini and Tavily Search.
 
 Aria provides intelligent AI responses and real-time web search capabilities through a lightweight frontend hosted on Vercel and a secure backend running through Cloudflare Workers.
 
 ## Features
+
 
 - AI-powered conversations using Google Gemini
 - Real-time web search using Tavily Search
